@@ -1,0 +1,9 @@
+{
+  "name": "V.ZONE",
+  "description": "Minimalist screen recording studio with auto-zoom and FFmpeg processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
